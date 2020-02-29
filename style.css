@@ -1,0 +1,44 @@
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+    background-color: #fceae8;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.bt{
+    background-color:crimson ;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding:9px 25px;
+    cursor: pointer;
+}
+.c1, .c2, .c3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.c1{
+    background-color: orange;
+    
+}
+.c2{
+    background-color: palevioletred;
+}
+.c3{
+    background-color: blue;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+
+}
+.card{
+    box-shadow: 10px 10px 10px gray;
+}
+#sub{
+    height: 600px;
+}
